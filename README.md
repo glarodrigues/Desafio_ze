@@ -16,7 +16,7 @@ Fluxo de Categoria dos Produtos;
 
 
 
-Passo para rodar a automação de um dos fluxos criticos:
+Passo a passo para rodar a automação de um dos fluxos criticos:
 
 - Instalar Ruby
 .Entrar no link https://www.ruby-lang.org/pt/
